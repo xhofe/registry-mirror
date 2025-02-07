@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Read the port from the environment variable
 PORT=${PORT:-"5000"}
